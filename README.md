@@ -122,6 +122,19 @@ searchButton.addEventListener("click", () => {
 });
 ```
 
+### Screenshots
+
+1. Dashboard
+
+   ![image](https://github.com/gk-anonymous/Mini-News-Dashboard-Creation/assets/100946485/18356165-d3f5-4f6f-95f9-39516757c061)
+
+
+
+2. API Fetched News
+
+   ![news_API fetched](https://github.com/gk-anonymous/Mini-News-Dashboard-Creation/assets/100946485/2f412d22-8d38-4de8-8948-7c10afdd592d)
+
+
 ### Conclusion
 
 The mini news dashboard provides users with a convenient way to stay updated with news articles from various categories. With its intuitive interface and dynamic functionality, users can easily browse, search, and read news articles of interest.
