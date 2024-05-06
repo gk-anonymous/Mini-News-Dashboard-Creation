@@ -61,6 +61,11 @@ The code is well-commented to explain the functionality and structure of each pa
 
    ![news_API fetched](https://github.com/gk-anonymous/Mini-News-Dashboard-Creation/assets/100946485/2f412d22-8d38-4de8-8948-7c10afdd592d)
 
+3. API Used
+
+   ![image](https://github.com/gk-anonymous/Mini-News-Dashboard-Creation/assets/100946485/a881e1cb-85b7-4836-b947-e21cd9652a44)
+
+
 
 ### Conclusion
 
