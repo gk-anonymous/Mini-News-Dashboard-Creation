@@ -1,1 +1,3 @@
-# Mini-News-Dashboard-Creation
+# <b>Mini News Dashboard Creation<b>
+
+Introduction
